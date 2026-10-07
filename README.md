@@ -1,4 +1,4 @@
-# 【HW5 作業規格書】荒林之境：靈魂行囊的抉擇之旅 (The Forest Walk)
+荒林之境：靈魂行囊的抉擇之旅 (The Forest Walk)
 
 ---
 
